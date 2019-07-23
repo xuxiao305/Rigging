@@ -4,3 +4,4 @@
 Facial/Maya/Data/ filter=lfs diff=lfs merge=lfs -text
 facialmayadataxiaoyue.ma filter=lfs diff=lfs merge=lfs -text
 facialMaya_Data filter=lfs diff=lfs merge=lfs -text
+facial/maya_data filter=lfs diff=lfs merge=lfs -text
