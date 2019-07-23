@@ -3,3 +3,4 @@
 *.ma filter=lfs diff=lfs merge=lfs -text
 Facial/Maya/Data/ filter=lfs diff=lfs merge=lfs -text
 facialmayadataxiaoyue.ma filter=lfs diff=lfs merge=lfs -text
+facialMaya_Data filter=lfs diff=lfs merge=lfs -text
